@@ -1,0 +1,4 @@
+# `brew style` lints the workflows with this file in place of Homebrew's own.
+config-variables:
+  # The gate in autobump.yml.
+  - CAMPFIRE_PUBLIC
